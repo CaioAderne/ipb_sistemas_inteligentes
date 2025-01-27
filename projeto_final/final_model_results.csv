@@ -1,0 +1,2 @@
+Hidden Size,Learning Rate,Epochs,Test F1-Score
+256,0.0001,5,1.0
